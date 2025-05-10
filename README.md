@@ -1,6 +1,6 @@
 # Modern ESX Identity UI
 
-![Preview](html/img/preview.jpg)
+![Preview](html/img/preview.png)
 
 A completely redesigned, modern user interface for ESX Identity with improved styling, better user experience, and enhanced functionality. Transform your character creation screen into a sleek, fullscreen experience that matches the quality of your FiveM server.
 
